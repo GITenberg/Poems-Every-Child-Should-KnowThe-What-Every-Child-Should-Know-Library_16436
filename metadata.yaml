@@ -1,0 +1,32 @@
+_repo: Poems-Every-Child-Should-KnowThe-What-Every-Child-Should-Know-Library_16436
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Burt, Mary E. (Mary Elizabeth)
+    alias: Burt, Mary Elizabeth
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '6710'
+    url: http://www.gutenberg.org/2009/agents/6710
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PZ'
+- !lcsh 'American poetry'
+- !lcc 'PN'
+title: 'Poems Every Child Should Know
+
+  The What-Every-Child-Should-Know-Library'
+url: http://www.gutenberg.org/ebooks/16436
